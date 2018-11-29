@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/usr/lib/jvm/java-1.8.0-openjdk" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="/git/Descargas/MapReduce-master/flink_scala" />
+            <option value="/git/Descargas/MapReduce-master/flink_scala/mainRunner" />
+            <option value="/git/Descargas/MapReduce-master/flink_scala/mainRunner/project" />
+            <option value="/git/Descargas/MapReduce-master/flink_scala/project" />
+          </set>
+        </option>
+        <option name="resolveSbtClassifiers" value="true" />
+        <option name="sbtVersion" value="1.1.2" />
+      </SbtProjectSettings>
+    </option>
+    <option name="maximumHeapSize" value="8536" />
+  </component>
+</project>
